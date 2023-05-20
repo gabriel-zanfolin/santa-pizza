@@ -1,1 +1,2 @@
-# prj_si_pizzaria
+# santa-pizza
+Projeto acadêmico para aplicação desktop de uma pizzaria, feito em VB.Net.
